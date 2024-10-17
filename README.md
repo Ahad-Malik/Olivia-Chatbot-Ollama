@@ -24,7 +24,7 @@ This project is a conversational chatbot named **Olivia**, designed to provide i
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Olivia-Chatbot-Ollama.git
+    git clone https://github.com/Ahad-Malik/Olivia-Chatbot-Ollama.git
     cd Olivia-Chatbot-Ollama
     ```
 
